@@ -1,0 +1,16 @@
+#my-portrait {
+    width: 200px;
+}
+
+#page {
+    background-color: #f3ff85;
+    padding: 15px;
+    border: 2px dotted rgb(4, 0, 255);
+    width: 500px;
+    min-height: 400px;
+    margin: auto;
+  }
+
+p {
+  text-indent: 25px;
+}
