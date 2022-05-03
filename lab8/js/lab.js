@@ -21,3 +21,4 @@ console.log("check array: " + numbers + ", are they mult of 3? " + numbers.map(i
 console.log("multiply array by 100: " + numbers.map(function(x){
     return x * 100;
 }));
+
