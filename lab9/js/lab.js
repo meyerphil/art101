@@ -1,6 +1,6 @@
 // Lab 9 JS for the Web
 // Practice using JS DOM on the digital page
-// @link   https://meyerphil.github.io/art101/lab8/index.html
+// @link   https://meyerphil.github.io/art101/lab9/index.html
 // @file   This file holds code for lab
 // @author Phil Meyer.
 // @since  5.5.22
