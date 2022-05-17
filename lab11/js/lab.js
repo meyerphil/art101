@@ -26,3 +26,4 @@ butt2.click(function(){
 butt3.click(function(){
     $("#results").toggleClass("special");
 });
+
